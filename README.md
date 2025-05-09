@@ -29,3 +29,5 @@ To run this project, you'll need to install the following Python libraries:
  * Evaluate the Model: We use RMSE (Root Mean Squared Error) to evaluate how well our model performed in predicting stock prices.
 
  * Visualization of Actual vs Predicted Data: The actual test data and predicted forecast are plotted for comparison.
+   
+### Note: "This project uses the yfinance library (Apache 2.0) to retrieve stock data."###
